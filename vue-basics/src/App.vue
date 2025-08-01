@@ -18,7 +18,10 @@
     <!-- <Modifiers /> -->
 
     <!-- This component shows usage of ref() -->
-     <Ref/>
+     <!-- <Ref/> -->
+
+    <!-- This component shows usage of reactive() -->
+    <Reactive />
 </div>
 </template>
 <script setup lang="js">
@@ -28,6 +31,7 @@ import Directives from './components/Directives.vue';
 import DynamicAttributes from './components/DynamicAttributes.vue';
 import Modifiers from './components/Modifiers.vue';
 import Ref from './components/reactivity/Ref.vue';
+import Reactive from './components/reactivity/Reactive.vue';
 </script>
 <style lang="">
   
