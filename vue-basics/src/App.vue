@@ -15,8 +15,11 @@
     <!-- <DynamicAttributes /> -->
 
     <!-- This component shows modifiers -->
-    <Modifiers />
-  </div>
+    <!-- <Modifiers /> -->
+
+    <!-- This component shows usage of ref() -->
+     <Ref/>
+</div>
 </template>
 <script setup lang="js">
 import AttributeBinding from './components/AttributeBinding.vue';
@@ -24,6 +27,7 @@ import TextInterpolation from './components/TextInterpolation.vue';
 import Directives from './components/Directives.vue';
 import DynamicAttributes from './components/DynamicAttributes.vue';
 import Modifiers from './components/Modifiers.vue';
+import Ref from './components/reactivity/Ref.vue';
 </script>
 <style lang="">
   
