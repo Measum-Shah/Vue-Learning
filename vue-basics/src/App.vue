@@ -12,7 +12,10 @@
     <!-- <Directives /> -->
 
     <!-- This component shows dynamic attributes -->
-    <DynamicAttributes />
+    <!-- <DynamicAttributes /> -->
+
+    <!-- This component shows modifiers -->
+    <Modifiers />
   </div>
 </template>
 <script setup lang="js">
@@ -20,6 +23,7 @@ import AttributeBinding from './components/AttributeBinding.vue';
 import TextInterpolation from './components/TextInterpolation.vue';
 import Directives from './components/Directives.vue';
 import DynamicAttributes from './components/DynamicAttributes.vue';
+import Modifiers from './components/Modifiers.vue';
 </script>
 <style lang="">
   
