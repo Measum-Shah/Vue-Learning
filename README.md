@@ -39,8 +39,6 @@ npm install
 npm run dev
 ```
 
-> Recommended: Use [VS Code](https://code.visualstudio.com/) with the Vue extension pack for better DX.
-
 ---
 
 ## 📘 Topics Covered (and Growing)
