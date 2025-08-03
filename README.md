@@ -71,7 +71,7 @@ If you’re also learning Vue and want to add new topic folders (e.g., `animatio
 ## 👨‍💻 Author
 
 **Measum Shah**  
-JavaScript & Vue Developer  
+ Full Stack Developer  
 [GitHub Profile »](https://github.com/Measum-Shah)
 
 ---
