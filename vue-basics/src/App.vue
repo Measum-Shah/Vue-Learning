@@ -27,9 +27,10 @@
     <!-- <Computed /> -->
 
     <!-- This Component shows Binding HTML Class to something-->
-    <BindHtmlClass />
+    <!-- <BindHtmlClass /> -->
 
-
+    <!-- This Component shows Form Binding -->
+    <FormBinding />
 </div>
 </template>
 <script setup lang="js">
@@ -42,6 +43,7 @@ import Ref from './components/reactivity/Ref.vue';
 import Reactive from './components/reactivity/Reactive.vue';
 import Computed from './components/Computed.vue';
 import BindHtmlClass from './components/BindHtmlClass.vue';
+import FormBinding from './components/FormBinding.vue';
 </script>
 <style lang="">
   
