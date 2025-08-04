@@ -24,7 +24,12 @@
     <!-- <Reactive /> -->
 
      <!-- This Component Shows the usage of Computed() -->
-    <Computed />
+    <!-- <Computed /> -->
+
+    <!-- This Component shows Binding HTML Class to something-->
+    <BindHtmlClass />
+
+
 </div>
 </template>
 <script setup lang="js">
@@ -36,6 +41,7 @@ import Modifiers from './components/Modifiers.vue';
 import Ref from './components/reactivity/Ref.vue';
 import Reactive from './components/reactivity/Reactive.vue';
 import Computed from './components/Computed.vue';
+import BindHtmlClass from './components/BindHtmlClass.vue';
 </script>
 <style lang="">
   
