@@ -21,7 +21,10 @@
      <!-- <Ref/> -->
 
     <!-- This component shows usage of reactive() -->
-    <Reactive />
+    <!-- <Reactive /> -->
+
+     <!-- This Component Shows the usage of Computed() -->
+    <Computed />
 </div>
 </template>
 <script setup lang="js">
@@ -32,6 +35,7 @@ import DynamicAttributes from './components/DynamicAttributes.vue';
 import Modifiers from './components/Modifiers.vue';
 import Ref from './components/reactivity/Ref.vue';
 import Reactive from './components/reactivity/Reactive.vue';
+import Computed from './components/Computed.vue';
 </script>
 <style lang="">
   
