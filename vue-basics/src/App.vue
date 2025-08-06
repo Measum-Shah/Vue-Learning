@@ -30,7 +30,10 @@
     <!-- <BindHtmlClass /> -->
 
     <!-- This Component shows Form Binding -->
-    <FormBinding />
+    <!-- <FormBinding /> -->
+
+      <!-- This component shows Watchers  -->
+    <Watchers />
 </div>
 </template>
 <script setup lang="js">
@@ -44,6 +47,7 @@ import Reactive from './components/reactivity/Reactive.vue';
 import Computed from './components/Computed.vue';
 import BindHtmlClass from './components/BindHtmlClass.vue';
 import FormBinding from './components/FormBinding.vue';
+import Watchers from './components/Watchers.vue';
 </script>
 <style lang="">
   
